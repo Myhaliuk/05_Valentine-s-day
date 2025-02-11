@@ -11,6 +11,9 @@ body {width: 100%;
      background: #ec6868 url("img/1644824088_33cffcc3.jpg") no-repeat 50% 0;
      background-size: cover;
   }
+
+  
+  
   
   h1 {
     width: 260px;
@@ -43,7 +46,20 @@ body {width: 100%;
     color: #ffc5b3;
   }
   
-  /* Add a rule for the vip class here */
+  .feature-kitten {
+    padding-top: 60px;
+    background: url("img/free-icon-heart-177043.png") no-repeat ;
+  }
+  
+  .feature-cat {
+    padding-top: 60px;
+    background: url("img/free-icon-heart-177043.png") no-repeat ;
+  }
+  
+  .feature-train {
+    padding-top: 60px;
+    background-image: url("img/whistle.svg");
+  }
   
   .container {
     width: 480px;
